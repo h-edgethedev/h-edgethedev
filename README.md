@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Heritage</h1>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Hi I'm Heritage
 
 <p align="center">
 💻 Computer Engineering Student <br>

@@ -1,5 +1,6 @@
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Hi I'm Heritage
 
+![](https://github-stats-alpha.vercel.app/api?username=h-edgethedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 <p align="center">
 💻 Computer Engineering Student <br>
 🚀 Frontend Developer • AI/ML Enthusiast <br>

@@ -37,7 +37,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-edgethedev&theme=tokyo-night">
+[![H~egde's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=h-edgethedev&bg_color=blue&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/h-edgethedev/github-readme-activity-graph)
 
 ---
 

@@ -35,14 +35,25 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📊 **PERFORMANCE ANALYTICS**
 
-[![H~egde's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=h-edgethedev&bg_color=blue&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/h-edgethedev/github-readme-activity-graph)
+<div align="center">
+  
+  ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-edgethedev&theme=radical)
+  
+</div>
 
----
+
+<div align="center">
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-edgethedev&theme=radical"/>
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-edgethedev&theme=radical"/>
+ </div>
 
+----
+## ⚡ **ACTIVITY PULSE** 
+[![H~egde's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=h-edgethedev&bg_color=blue&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/h-edgethedev/github-readme-activity-graph)
 ---
 ## 🚀 Featured Projects
 

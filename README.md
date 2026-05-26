@@ -41,6 +41,9 @@
 
 ---
 
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-edgethedev&theme=radical"/>
+
+---
 ## 🚀 Featured Projects
 
 ### 🛒 Voltmart E-commerce Website

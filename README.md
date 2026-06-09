@@ -61,10 +61,6 @@
 
 E-commerce platform focused on gadget sales built with **Flet**.
 
-### 🤟 ASL Conversion Project
-
-Machine learning project for **sign language recognition**.
-
 ---
 
 ## 🌐 Connect With Me
